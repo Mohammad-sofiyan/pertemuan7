@@ -10,17 +10,17 @@ terdapat dua jenis perulangan di pyhton,yaitu 'for' dan 'wile'
 
 bentuk umum 'for'
 
-![1.png](/gambar1/1.pgn)
+![1.png](/gambar1/1.png)
 
 program latrihan1
 
-![2.pgn](/gambar1/2.pgn)
+![2.png](/gambar1/2.png)
 
 pertama kita temukan banyak nya perulangan sebanyak 10x
 
-![3(2).pgn](/gambar2/3(2).pgn)
+![3.png](/gambar2/3.png)
 
 variabel 'i' berfungsi untuk menampung indeks
 dan fungsi 'range()' berfungsi untuk membuat list dengan range dari 1-10
 
-![4(2).pgn](/gambar2/4(2).pgn)
+![4.png](/gambar2/4.png)
